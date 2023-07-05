@@ -4,17 +4,21 @@ List of startups companies in Bangalore - (<strong>lists at <a href="http://proj
 <ul>
   <li><strong><a href="http://www.metrobikes.in/">Bounce (Metro Bikes)</a>: </strong>Bounce (formerly Metro Bikes) is an urban mobility solution that makes daily commute stress-free, time-saving, reliable, and convenient.  </li><br>
 <li><strong><a href="http://byjus.com/">BYJU’S</a>: </strong>BYJU’s is an edtech company that is reinventing how students learn through its learning app.  </li><br>
-<li><strong><a href="http://www.urbanladder.com">Urban Ladder</a>: </strong>Urban Ladder is a Bangalore-based online furniture company.</li><br>
+<li><strong><a href="http://www.urbanladder.com">Urban Ladder</a>: </strong>Urban Ladder is a Bangalore-based online furniture company.</li> - Shubham
+  <br>
 <li><strong><a href="http://sharechat.com">ShareChat</a>: </strong>ShareChat is a social networking and regional content platform for the fast growing Internet users in India.</li><br> - LinkedIn - Yash Jain
-<li><strong><a href="http://www.livspace.com/">Livspace</a>: </strong>Livspace is the new online shopping destination where you can design, decorate and furnish your dream home.</li><br>
-  <hr>
+<li><strong><a href="http://www.livspace.com/">Livspace</a>: </strong>Livspace is the new online shopping destination where you can design, decorate and furnish your dream home.</li>
+  - Rajashekhar Reddy
+  <br>
+
 <li><strong><a href="http://www.zoomcar.in">ZoomCar</a>: </strong>Zoom is a self-drive-focused car rental company allowing individuals to rent vehicles by the hour, day, and week.</li><br>
 <li><strong><a href="http://www.zapyle.com/">Zapyle</a>: </strong>Zapyle is an e-commerce platform for luxury fashion.</li><br>
 <li><strong><a href="http://bigbasket.com">BigBasket</a>: </strong>Bigbasket.com is an online food and grocery store.</li><br>
 <li><strong><a href="http://letstransport.in/">LetsTransport</a>: </strong>Lets transport is a “Last mile” logistics solution provider.</li><br>
-<li><strong><a href="http://wickedride.com">Wicked Ride Adventure Services Private Limited</a>: </strong>Peer-to-Peer motor vehicles sharing</li><br>
-<li><strong><a href="http://www.kalaari.com">Kalaari Capital</a>: </strong>Kalaari is a venture company investing in technology-related companies in India.</li><br>
+<li><strong><a href="http://wickedride.com">Wicked Ride Adventure Services Private Limited</a>: </strong>Peer-to-Peer motor vehicles sharing</li> Rejected<br>
+<li><strong><a href="http://www.kalaari.com">Kalaari Capital</a>: </strong>Kalaari is a venture company investing in technology-related companies in India. Rejected</li><br>
 <li><strong><a href="https://www.nestaway.com">NestAway</a>: </strong>Nestaway is a Bangalore-based home rental network.</li><br>
+  <hr>
 <li><strong><a href="http://www.findmeashoe.in/index.php">Findmeashoe</a>: </strong>Findmeashoe.com is a footwear recommendation portal that aims to improve shopping efficiency and experience of footwear shoppers.</li><br>
 <li><strong><a href="https://www.swiggy.com">Swiggy</a>: </strong>Swiggy is a food ordering and delivery company that provides food service solutions for restaurants.  </li><br>
 <li><strong><a href="http://zestmoney.in/">ZestMoney</a>: </strong>Zest is India's first completely automated consumer digital lending platform.  </li><br>
