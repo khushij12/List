@@ -2,8 +2,8 @@
 List of startups companies in Bangalore - (<strong>lists at <a href="http://projectstartups.com">projectstartups.com</a></strong>);
 
 <ul>
-  <li><strong><a href="http://www.metrobikes.in/">Bounce (Metro Bikes)</a>: </strong>Bounce (formerly Metro Bikes) is an urban mobility solution that makes daily commute stress-free, time-saving, reliable, and convenient.  </li><br>
-<li><strong><a href="http://byjus.com/">BYJU’S</a>: </strong>BYJU’s is an edtech company that is reinventing how students learn through its learning app.  </li><br>
+  <del><li><strong><a href="http://www.metrobikes.in/">Bounce (Metro Bikes)</a>: </strong>Bounce (formerly Metro Bikes) is an urban mobility solution that makes daily commute stress-free, time-saving, reliable, and convenient.  </li></del><br>
+<li><del><strong><a href="http://byjus.com/">BYJU’S</a>: </strong>BYJU’s is an edtech company that is reinventing how students learn through its learning app.  </li></del><br>
 <li><strong><a href="http://www.urbanladder.com">Urban Ladder</a>: </strong>Urban Ladder is a Bangalore-based online furniture company.</li> - Shubham
   <br>
 <li><strong><a href="http://sharechat.com">ShareChat</a>: </strong>ShareChat is a social networking and regional content platform for the fast growing Internet users in India.</li><br> - LinkedIn - Yash Jain
